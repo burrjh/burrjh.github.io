@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Machine Learning Engineer
+based in Germany
 
-### More Information
+### Some Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My first contact with Artificial Intelligence was from a perspective of Cognitive Science: modeling the human brain. I was fascinated and convinced I wanted to study Machine Learning deeply to fully understand it. In my masters of Data Science I had the chance to study Statistics, Computer Science and choose applied courses in Machine Learning. Besides, I had the opportunity to pratically work with Deep Learning models for Object Detection as well as Natural Language Processing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[burr.johannes(at)gmail.com](burr.johannes@gmail.com)
